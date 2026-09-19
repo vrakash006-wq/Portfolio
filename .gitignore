@@ -1,0 +1,13 @@
+.DS_Store
+.claude/
+
+# old exports / drafts (the live page is published as index.html)
+New Folder With Items/
+akash_portfolio*.html
+
+# raw / unused media (not referenced by the page)
+assets/Content creation bts/
+assets/Screenshot*.png
+assets/content-bts/IMG_0064.jpg
+assets/ai-video/*
+!assets/ai-video/creative/
